@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Julian-JIKAN-API/static/css/main.ef8554ac.css",
+    "main.js": "/Julian-JIKAN-API/static/js/main.fcdd6c4d.js",
+    "index.html": "/Julian-JIKAN-API/index.html",
+    "main.ef8554ac.css.map": "/Julian-JIKAN-API/static/css/main.ef8554ac.css.map",
+    "main.fcdd6c4d.js.map": "/Julian-JIKAN-API/static/js/main.fcdd6c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8554ac.css",
+    "static/js/main.fcdd6c4d.js"
+  ]
+}
